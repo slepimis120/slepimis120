@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nemanja Šimšić</h1>
 <h3 align="left">A passionate Software Engineering student from Serbia</h3>
 
-- 🔭 I’m currently working on [ManGo Mobile Application](https://github.com/slepimis120/ManGo-Mobile)
+- 🔭 I’m currently working on [Photo Gallery](https://github.com/slepimis120/Photo-Gallery)
 
-- 🌱 I’m currently learning about **Android Studio**
+- 🌱 I’m currently learning about **AWS and Angular**
 
 - 📫 How to reach me **nemanjasimsic02@gmail.com**
 
