@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nemanja Šimšić</h1>
 <h3 align="left">A passionate Software Engineering student from Serbia</h3>
 
-- 🔭 I’m currently working on [Photo Gallery](https://github.com/slepimis120/Photo-Gallery)
+- 🔭 I’m currently working on [Smart Home](https://github.com/KristinaPopovSV5-2020/SmartHome)
 
-- 🌱 I’m currently learning about **AWS and Angular**
+- 🌱 I’m currently learning about **React**
 
 - 📫 How to reach me **nemanjasimsic02@gmail.com**
 
-- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/1uKEBS0WIdAqgpDAi0grthRr4d4tk2OYW/view?usp=sharing)
+- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/1jzsGwY_jaLHQS9XjRPG4rGFeaqEpOtUL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
