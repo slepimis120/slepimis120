@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nemanja Šimšić</h1>
 <h3 align="left">A passionate Software Engineering student from Serbia</h3>
 
-- 🔭 I’m currently working on [Smart Home](https://github.com/KristinaPopovSV5-2020/SmartHome)
+- 🔭 I’m currently working on [Stefan Nemanja](https://github.com/slepimis120/Stefan_Nemanja)
 
-- 🌱 I’m currently learning about **React**
+- 🌱 I’m currently learning about **Drools**
 
 - 📫 How to reach me **nemanjasimsic02@gmail.com**
 
