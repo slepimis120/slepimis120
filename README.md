@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nemanjasimsic02@gmail.com**
 
-- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/1jzsGwY_jaLHQS9XjRPG4rGFeaqEpOtUL/view?usp=sharing)
+- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/1opfVxfAZHIwmlHSMpq6MT4eSYPxszX9Z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
