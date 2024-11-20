@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Šuljaga](https://github.com/slepimis120/Suljaga)
 
-- 🌱 I’m currently learning **Software Patterns and Components**
+- 🌱 I’m currently learning **Compiler Construction and Interpreter Design**
 
 - 📫 How to reach me **nemanjasimsic02@gmail.com**
 
