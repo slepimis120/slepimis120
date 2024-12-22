@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nemanja Šimšić</h1>
 <h3 align="left">A passionate Software Engineering student from Serbia</h3>
 
-- 🔭 I’m currently working on [Šuljaga](https://github.com/slepimis120/Suljaga)
+- 📖 I’m currently reading [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by Martin Kleppmann
 
 - 🌱 I’m currently learning **Compiler Construction and Interpreter Design**
 
