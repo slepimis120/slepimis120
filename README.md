@@ -3,7 +3,7 @@
 
 - 📖 I’m currently reading [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by Martin Kleppmann
 
-- 🌱 I’m currently learning **Compiler Construction and Interpreter Design**
+- 🌱 I’m currently learning more about **Distributed Systems and Large-scale Data Processing**
 
 - 📫 How to reach me **nemanjasimsic02@gmail.com**
 
